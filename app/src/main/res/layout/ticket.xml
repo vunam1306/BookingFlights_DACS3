@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="30dp"
+        android:orientation="vertical">
+        
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Bamboo Airway"
+            android:textSize="40dp"/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Mr. Vũ Nam"
+            android:textSize="40dp"/>
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_marginTop="20dp"
+            android:layout_height="wrap_content"
+            android:text="Nơi đi"
+            android:textSize="20dp"/>
+
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Hà Nội"
+            android:textSize="40dp"/>
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="Nơi đến"
+            android:layout_marginTop="20dp"
+            android:textSize="20dp"/>
+
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="50dp"
+            android:text="Đà Nẵng"
+            android:textSize="40dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="95dp"
+            android:src="@drawable/code" />
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:text="VN123"
+            android:textSize="30dp"
+            android:gravity="center"/>
+      <LinearLayout
+          android:layout_width="300dp"
+          android:layout_height="match_parent"
+          android:orientation="horizontal">
+
+          <LinearLayout
+              android:layout_width="150dp"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+              <TextView
+                  android:layout_width="300dp"
+                  android:layout_height="wrap_content"
+                  android:text="Gate"
+                  android:textSize="25dp"/>
+
+              <TextView
+                  android:layout_width="300dp"
+                  android:layout_height="wrap_content"
+                  android:text="G04"
+                  android:textSize="40dp"/>
+
+
+              <TextView
+                  android:layout_marginTop="20dp"
+                  android:layout_width="300dp"
+                  android:layout_height="wrap_content"
+                  android:text="Seat"
+                  android:textSize="25dp"/>
+
+              <TextView
+                  android:layout_width="300dp"
+                  android:layout_height="wrap_content"
+                  android:text="F1"
+                  android:textSize="40dp"/>
+
+
+          </LinearLayout>
+
+
+          <LinearLayout
+              android:layout_marginTop="50dp"
+              android:layout_width="150dp"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+              <TextView
+                  android:layout_width="150dp"
+                  android:layout_height="wrap_content"
+                  android:text="Time"
+                  android:textSize="25dp"/>
+
+              <TextView
+                  android:layout_width="150dp"
+                  android:layout_height="wrap_content"
+                  android:text="20:00-22:00"
+                  android:textSize="28dp"/>
+          </LinearLayout>
+      </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

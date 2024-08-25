@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="@string/nav_home"
+        android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/nav_account"
+        android:title="@string/nav_account"
+        android:icon="@drawable/ic_manage_accounts"/>
+
+    <item android:id="@+id/nav_support"
+        android:title="@string/nav_sp"
+        android:icon="@drawable/baseline_local_phone_24"/>
+
+    <item android:id="@+id/nav_setting"
+        android:title="@string/nav_setting"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>

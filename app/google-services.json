@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030504787986",
+    "project_id": "bookingflights-dacs3-71a4c",
+    "storage_bucket": "bookingflights-dacs3-71a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030504787986:android:ebc21844b6ac4abc8128cb",
+        "android_client_info": {
+          "package_name": "com.example.bookingflights_dacs3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030504787986-au38g7g6gtruhviqdfgqpcv4krm8tg3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookingflights_dacs3",
+            "certificate_hash": "619d063918fa68c4450a1bfd74aca547a7cb33e3"
+          }
+        },
+        {
+          "client_id": "1030504787986-g831745nlkqq22bljfj0sdrgchia265d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC21L8D500FkX55JGOEgKAJ1Nj3xXeeiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030504787986-g831745nlkqq22bljfj0sdrgchia265d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
